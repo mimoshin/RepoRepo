@@ -4,3 +4,6 @@ from django.db import models
 
 class Jamon(models.Model):
     pass
+
+class Jamon_Cocido(models.Model):
+    pass
